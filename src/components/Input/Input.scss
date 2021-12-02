@@ -1,0 +1,12 @@
+.main-form {
+    &__label {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-self: baseline;
+    }
+  
+    &__input {
+      margin-left: 7px;
+    }
+  }
